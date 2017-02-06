@@ -1,0 +1,38 @@
+table, th, td {
+    border: 1px solid #81F7F3;
+    border-spacing: 0px;
+}
+
+th, td {
+    padding: 10px;
+}
+
+body {
+    background-color:  black;
+    color: cyan;
+    margin: auto;
+    width: 600px;
+    border: red;
+}
+
+h1 {
+    font-size: 120%;
+}
+
+h2 {
+    color: red;
+    font-size: 160%;
+}
+
+td h2 {
+    color: #FE2EF7;
+}
+
+h3 {
+    font-size: 120%;
+    color: blue;
+}
+
+h4 {
+    color: red;
+}
